@@ -1,0 +1,31 @@
+{
+    "name": "gogh-theme",
+    "displayName": "Gogh Theme",
+    "description": "Based on Gogh / Palenight palette from Gogh project",
+    "publisher": "Avetis",
+    "author": {
+        "name": "AvetisDN",
+        "email": "avetisdn@gmail.com"
+    },
+    "icon": "icon/gogh.png",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AvetisDN/gogh-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gogh Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gogh-color-theme.json"
+            }
+        ]
+    }
+}
