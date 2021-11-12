@@ -1,20 +1,20 @@
 {
-    "name": "gogh-theme",
-    "displayName": "Gogh Theme",
-    "description": "Based on Gogh / Palenight palette from Gogh project",
+    "name": "codeme-theme",
+    "displayName": "CodeMe Theme",
+    "description": "Dark soft theme",
     "publisher": "Avetis",
     "author": {
         "name": "AvetisDN",
         "email": "avetisdn@gmail.com"
     },
-    "icon": "icon/gogh.png",
-    "version": "0.0.3",
+    "icon": "icon/codeme-theme.png",
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.50.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/AvetisDN/gogh-theme"
+        "url": "https://github.com/AvetisDN/codeme-theme"
     },
     "categories": [
         "Themes"
@@ -22,9 +22,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Gogh Theme",
+                "label": "CodeMe Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/gogh-color-theme.json"
+                "path": "./themes/codeme-theme.json"
             }
         ]
     }

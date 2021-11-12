@@ -1,11 +1,7 @@
-# Gogh Theme
+# CodeMe Theme
 
-Based on Gogh / Palenight palette from Gogh project
-
-[Gogh project website](https://mayccoll.github.io/Gogh/)
-
----
+Stop themehopping. Just code
 
 ## Screenshots
-### Gogh Theme
-![Gogh Theme](https://i.imgur.com/OvCPZ6s.png)
+### CodeMe Theme
+![CodeMe Theme]()
