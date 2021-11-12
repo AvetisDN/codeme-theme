@@ -1,6 +1,6 @@
 # CodeMe Theme
 
-Stop themehopping. Just code
+Stop theme-hopping. Just code 🔥
 
 ## CodeMe Screenshots
 
