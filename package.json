@@ -22,7 +22,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "CodeMe Theme",
+                "label": "CodeMe Dimmed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codeme-dimmed-theme.json"
+            },
+            {
+                "label": "CodeMe Blueish",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codeme-blueish-theme.json"
+            },
+            {
+                "label": "CodeMe",
                 "uiTheme": "vs-dark",
                 "path": "./themes/codeme-theme.json"
             }
