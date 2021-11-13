@@ -30,6 +30,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "CodeMe Omni",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codeme-omni-theme.json"
+            },
+            {
                 "label": "CodeMe Ash",
                 "uiTheme": "vs-dark",
                 "path": "./themes/codeme-ash-theme.json"
@@ -45,7 +50,7 @@
                 "path": "./themes/codeme-blueish-theme.json"
             },
             {
-                "label": "CodeMe",
+                "label": "CodeMe Gray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/codeme-theme.json"
             }
