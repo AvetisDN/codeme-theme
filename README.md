@@ -22,3 +22,6 @@ Happy Code 🔥
 
 ### CodeMe Ayu
 ![CodeMe Ayu](https://i.imgur.com/QTeOkRe.png)
+
+### CodeMe GoogleDark
+![CodeMe GoogleDark](https://i.imgur.com/Hkbhvmq.png)

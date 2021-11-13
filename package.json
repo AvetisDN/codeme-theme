@@ -8,7 +8,7 @@
         "email": "avetisdn@gmail.com"
     },
     "icon": "icon/codeme-theme.png",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -53,6 +53,11 @@
                 "label": "CodeMe Blueish",
                 "uiTheme": "vs-dark",
                 "path": "./themes/codeme-blueish-theme.json"
+            },
+            {
+                "label": "CodeMe Google Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codeme-gdark-theme.json"
             },
             {
                 "label": "CodeMe Gray",
