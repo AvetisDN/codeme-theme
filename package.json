@@ -30,6 +30,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "CodeMe Ash",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codeme-ash-theme.json"
+            },
+            {
                 "label": "CodeMe Dimmed",
                 "uiTheme": "vs-dark",
                 "path": "./themes/codeme-dimmed-theme.json"

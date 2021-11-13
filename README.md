@@ -12,3 +12,6 @@ Stop theme-hopping. Just code 🔥
 
 ### CodeMe Dimmed
 ![CodeMe Dimmed](https://i.imgur.com/l9x9HTY.png)
+
+### CodeMe Ash
+![CodeMe Ash](https://i.imgur.com/IVDiIyA.png)
