@@ -1,7 +1,7 @@
 # CodeMe Theme
 
 Collection of dark themes based on different well- (or not very) known palettes
-Stop theme-hopping. Just code 🔥
+Happy Code 🔥
 
 ## CodeMe Screenshots
 
@@ -19,3 +19,6 @@ Stop theme-hopping. Just code 🔥
 
 ### CodeMe Gray
 ![CodeMe Gray](https://i.imgur.com/KH3tjHl.png)
+
+### CodeMe Ayu
+![CodeMe Ayu](https://i.imgur.com/QTeOkRe.png)
