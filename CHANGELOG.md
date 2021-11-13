@@ -1,5 +1,8 @@
 # Change Log
 
+[0.0.7] 2021-11-13
+- Nordic variant added
+
 [0.0.6] 2021-11-13
 - Google Dark variant added
 

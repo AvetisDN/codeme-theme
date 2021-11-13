@@ -14,6 +14,9 @@ Happy Code 🔥
 ### CodeMe Ash
 ![CodeMe Ash](https://i.imgur.com/IVDiIyA.png)
 
+### CodeMe Nord
+![CodeMe Nord](https://i.imgur.com/HnvNrn7.png)
+
 ### CodeMe Omni
 ![CodeMe Omni](https://i.imgur.com/5iKNtQg.png)
 
