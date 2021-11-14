@@ -8,7 +8,7 @@
         "email": "avetisdn@gmail.com"
     },
     "icon": "icon/codeme-theme.png",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -18,7 +18,13 @@
         "dark theme",
         "github",
         "onedark",
-        "codeme"
+        "codeme",
+        "omni",
+        "tokyo",
+        "nord",
+        "dark",
+        "ayu",
+        "google dark"
     ],
     "repository": {
         "type": "git",
