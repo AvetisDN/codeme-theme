@@ -1,5 +1,11 @@
 # Change Log
 
+[0.1.0] 2021-11-14
+- TokyoNight variant added
+
+[0.0.8 - 0.0.9] 2021-11-14
+- Minor fixes
+
 [0.0.7] 2021-11-13
 - Nordic variant added
 

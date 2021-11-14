@@ -8,7 +8,7 @@
         "email": "avetisdn@gmail.com"
     },
     "icon": "icon/codeme-theme.png",
-    "version": "0.0.8",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -29,6 +29,16 @@
     ],
     "contributes": {
         "themes": [
+            {
+                "label": "CodeMe Tokyo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codeme-tokyo-theme.json"
+            },
+            {
+                "label": "CodeMe Blueish",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codeme-blueish-theme.json"
+            },
             {
                 "label": "CodeMe Nord",
                 "uiTheme": "vs-dark",
@@ -53,11 +63,6 @@
                 "label": "CodeMe Dimmed",
                 "uiTheme": "vs-dark",
                 "path": "./themes/codeme-dimmed-theme.json"
-            },
-            {
-                "label": "CodeMe Blueish",
-                "uiTheme": "vs-dark",
-                "path": "./themes/codeme-blueish-theme.json"
             },
             {
                 "label": "CodeMe Google Dark",

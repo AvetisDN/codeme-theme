@@ -8,6 +8,9 @@ Happy Code 🔥
 ### CodeMe Blueish
 ![CodeMe Blueish](https://i.imgur.com/5Kt04p6.png)
 
+### CodeMe Tokyo
+![CodeMe Tokyo](https://i.imgur.com/eat3cDw.png)
+
 ### CodeMe Dimmed
 ![CodeMe Dimmed](https://i.imgur.com/l9x9HTY.png)
 
